@@ -7,3 +7,4 @@ creating a new branch is quick & simple!
 bbbxx-creating a new branch is quick and simple!
 xxx--creating a new branch is quick and simple!
 test --no-ff
+test stash
